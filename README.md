@@ -3,5 +3,5 @@ This is an interactive teaching sample. The Gradient: Climbing the Mountain Fast
 
 This notebook teaches the intuition behind gradients through a mountain-climbing analogy with an interactive hiker race showing why the gradient wins
 
-Open the notebook here: [Sample1_InteractiveGradient.ipynb](Sample1_InteractiveGradient.ipynb)
+Open the notebook here: [Sample1_InteractiveGradient_.ipynb](Sample1_InteractiveGradient_.ipynb)
 
